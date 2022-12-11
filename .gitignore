@@ -6,7 +6,6 @@ target/
 ### IntelliJ IDEA ###
 .idea/
 lib/
-.gitignore
 #.idea/modules.xml
 #.idea/jarRepositories.xml
 #.idea/compiler.xml
